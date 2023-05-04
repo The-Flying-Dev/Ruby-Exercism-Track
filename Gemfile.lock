@@ -40,6 +40,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   minitest
@@ -51,4 +52,4 @@ DEPENDENCIES
   simplecov
 
 BUNDLED WITH
-   2.2.22
+   2.4.12
